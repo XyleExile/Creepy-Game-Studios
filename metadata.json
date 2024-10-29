@@ -1,0 +1,29 @@
+{
+  "repoUrl": "https://github.com/feit-comp30019/2024s2-project-2-creepy-game-studios",
+  "teamName": "Creepy Game Studios",
+  "teamMembers": [
+    {
+      "name": "Sean Lee",
+      "github": "Sean-Lee-1354239",
+      "email": "splee@student.unimelb.edu.au"
+    },
+    {
+      "name": "Ethan Tien Yu Au",
+      "github": "XyleExile",
+      "email": "ethantienyua@student.unimelb.edu.au"
+    },
+    {
+      "name": "Yue Zhang",
+      "github": "yuezhang7",
+      "email": "yzzhan15@student.unimelb.edu.au"
+    },
+    {
+      "name": "Chee Henn Chin",
+      "github": "CheeHennC",
+      "email": "cheehennc@student.unimelb.edu.au"
+    }
+  ],
+  "gameTitle": "Echoes of the Reactor",
+  "gameBlurb": "Echoes of the Reactor is a puzzle solving, adventure, survival game that plunges players into a post nuclear meltdown world, where the remnants of human technology lie forgotten and decayed. The game is set within the confines of a long destroyed nuclear power plant, a place that was once a beacon of progress but is now a treacherous place of ruin and radiation. Your mission is to retrieve a crucial item hidden deep within the labyrinthine corridors of the plant, but the path to success is fraught with peril. Players must use their wits, tools, and knowledge to navigate the dangers that lurk within the plant and successfully complete their mission.",
+  "videoUrl": "https://www.youtube.com/watch?v=r6rOlhOUy2c"
+}
